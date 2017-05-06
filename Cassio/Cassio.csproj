@@ -38,10 +38,10 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="HesaEngine.Core, Version=1.0.0.0, Culture=neutral">
-      <HintPath>C:\Users\fabia\Desktop\Release\HesaEngine.Core.dll</HintPath>
+        <HintPath>C:\Users\fabia\Downloads\Release\HesaEngine.Core.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX, Version=2.6.3.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1">
-      <HintPath>C:\Users\fabia\Desktop\Release\SharpDX.dll</HintPath>
+        <HintPath>C:\Users\fabia\Downloads\Release\SharpDX.dll</HintPath>
     </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
